@@ -1,0 +1,21 @@
+[
+  {
+    "nome": "banana",
+    "preco": 15
+  },
+  {
+    "nome": "banana2",
+    "preco": 115,
+    "id": 1
+  },
+  {
+    "nome": "banana2",
+    "preco": 115,
+    "id": 1
+  },
+  {
+    "nome": "banana2",
+    "preco": 115,
+    "id": 1
+  }
+]
